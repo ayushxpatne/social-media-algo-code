@@ -1,0 +1,1730 @@
+{
+    "video_0": {
+        "category_combined": {
+            "Education & Knowledge": [
+                "science",
+                "psychology",
+                "finance"
+            ],
+            "Trends & Modern Culture": [
+                "crypto",
+                "AI",
+                "startups",
+                "current events"
+            ],
+            "Misc & Social": [
+                "humor",
+                "news"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_1": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "gadgets"
+            ],
+            "Inspiration & Personal Growth": [
+                "productivity",
+                "mindfulness"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_2": {
+        "category_combined": {
+            "Education & Knowledge": [
+                "history",
+                "coding",
+                "space"
+            ],
+            "Art & Creativity": [
+                "design",
+                "crafts"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_3": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "AI",
+                "gadgets",
+                "current events"
+            ],
+            "Entertainment": [
+                "music",
+                "dance",
+                "memes",
+                "sports"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_4": {
+        "category_combined": {
+            "Misc & Social": [
+                "family"
+            ],
+            "Art & Creativity": [
+                "design",
+                "painting",
+                "theater"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_5": {
+        "category_combined": {
+            "Misc & Social": [
+                "politics"
+            ],
+            "Education & Knowledge": [
+                "psychology",
+                "coding"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_6": {
+        "category_combined": {
+            "Misc & Social": [
+                "humor",
+                "family",
+                "politics"
+            ],
+            "Lifestyle": [
+                "fashion",
+                "beauty"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_7": {
+        "category_combined": {
+            "Education & Knowledge": [
+                "psychology",
+                "space"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_8": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "gadgets"
+            ],
+            "Inspiration & Personal Growth": [
+                "mindfulness"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_9": {
+        "category_combined": {
+            "Education & Knowledge": [
+                "history",
+                "technology",
+                "space",
+                "coding",
+                "finance"
+            ],
+            "Entertainment": [
+                "anime",
+                "sports"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_10": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "crypto",
+                "AI"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_11": {
+        "category_combined": {
+            "Lifestyle": [
+                "fashion",
+                "travel",
+                "home decor"
+            ],
+            "Art & Creativity": [
+                "crafts",
+                "painting",
+                "literature"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_12": {
+        "category_combined": {
+            "Misc & Social": [
+                "relationships",
+                "news",
+                "family"
+            ],
+            "Trends & Modern Culture": [
+                "crypto",
+                "AI",
+                "gadgets"
+            ],
+            "Education & Knowledge": [
+                "history",
+                "coding"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_13": {
+        "category_combined": {
+            "Art & Creativity": [
+                "painting"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_14": {
+        "category_combined": {
+            "Misc & Social": [
+                "humor",
+                "politics"
+            ],
+            "Trends & Modern Culture": [
+                "startups",
+                "gadgets",
+                "current events"
+            ],
+            "Art & Creativity": [
+                "design",
+                "crafts",
+                "writing"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_15": {
+        "category_combined": {
+            "Misc & Social": [
+                "news"
+            ],
+            "Education & Knowledge": [
+                "space",
+                "history",
+                "coding",
+                "technology"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_16": {
+        "category_combined": {
+            "Misc & Social": [
+                "politics"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_17": {
+        "category_combined": {
+            "Inspiration & Personal Growth": [
+                "philosophy"
+            ],
+            "Art & Creativity": [
+                "crafts"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_18": {
+        "category_combined": {
+            "Lifestyle": [
+                "food",
+                "fashion",
+                "home decor",
+                "beauty",
+                "travel"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_19": {
+        "category_combined": {
+            "Misc & Social": [
+                "relationships",
+                "news",
+                "politics"
+            ],
+            "Art & Creativity": [
+                "design",
+                "crafts",
+                "painting",
+                "writing"
+            ],
+            "Trends & Modern Culture": [
+                "cars",
+                "crypto",
+                "AI",
+                "gadgets"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_20": {
+        "category_combined": {
+            "Entertainment": [
+                "tv shows",
+                "memes"
+            ],
+            "Art & Creativity": [
+                "design"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_21": {
+        "category_combined": {
+            "Lifestyle": [
+                "beauty",
+                "home decor",
+                "fitness"
+            ],
+            "Trends & Modern Culture": [
+                "crypto",
+                "gadgets"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_22": {
+        "category_combined": {
+            "Inspiration & Personal Growth": [
+                "philosophy"
+            ],
+            "Art & Creativity": [
+                "painting",
+                "writing"
+            ],
+            "Entertainment": [
+                "movies",
+                "anime",
+                "dance",
+                "sports"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_23": {
+        "category_combined": {
+            "Entertainment": [
+                "movies",
+                "gaming",
+                "music",
+                "tv shows"
+            ],
+            "Misc & Social": [
+                "humor",
+                "family"
+            ],
+            "Lifestyle": [
+                "food",
+                "fitness",
+                "home decor"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_24": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "current events"
+            ],
+            "Art & Creativity": [
+                "crafts",
+                "writing"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_25": {
+        "category_combined": {
+            "Misc & Social": [
+                "relationships",
+                "family",
+                "politics"
+            ],
+            "Lifestyle": [
+                "travel",
+                "home decor"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_26": {
+        "category_combined": {
+            "Inspiration & Personal Growth": [
+                "productivity"
+            ],
+            "Entertainment": [
+                "anime"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_27": {
+        "category_combined": {
+            "Education & Knowledge": [
+                "science",
+                "history"
+            ],
+            "Art & Creativity": [
+                "literature"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_28": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "cars",
+                "gadgets"
+            ],
+            "Lifestyle": [
+                "food",
+                "beauty",
+                "fitness",
+                "home decor"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_29": {
+        "category_combined": {
+            "Entertainment": [
+                "gaming",
+                "tv shows",
+                "music",
+                "memes"
+            ],
+            "Art & Creativity": [
+                "painting"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_30": {
+        "category_combined": {
+            "Education & Knowledge": [
+                "science",
+                "psychology",
+                "technology"
+            ],
+            "Misc & Social": [
+                "news"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_31": {
+        "category_combined": {
+            "Education & Knowledge": [
+                "science",
+                "psychology",
+                "finance"
+            ],
+            "Inspiration & Personal Growth": [
+                "motivation",
+                "self-care"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_32": {
+        "category_combined": {
+            "Lifestyle": [
+                "food",
+                "photography",
+                "fitness"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_33": {
+        "category_combined": {
+            "Entertainment": [
+                "music",
+                "dance",
+                "memes"
+            ],
+            "Lifestyle": [
+                "photography"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_34": {
+        "category_combined": {
+            "Entertainment": [
+                "movies",
+                "anime",
+                "sports"
+            ],
+            "Trends & Modern Culture": [
+                "startups",
+                "AI",
+                "gadgets",
+                "current events"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_35": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "crypto",
+                "startups"
+            ],
+            "Lifestyle": [
+                "fitness"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_36": {
+        "category_combined": {
+            "Lifestyle": [
+                "food",
+                "travel",
+                "photography"
+            ],
+            "Entertainment": [
+                "music"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_37": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "cars",
+                "startups",
+                "AI",
+                "current events"
+            ],
+            "Art & Creativity": [
+                "literature"
+            ],
+            "Lifestyle": [
+                "fashion",
+                "home decor"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_38": {
+        "category_combined": {
+            "Entertainment": [
+                "gaming",
+                "memes",
+                "anime"
+            ],
+            "Lifestyle": [
+                "fashion"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_39": {
+        "category_combined": {
+            "Art & Creativity": [
+                "painting",
+                "theater",
+                "writing"
+            ],
+            "Education & Knowledge": [
+                "finance",
+                "science",
+                "technology",
+                "space"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_40": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "cars"
+            ],
+            "Education & Knowledge": [
+                "history",
+                "psychology",
+                "finance",
+                "space"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_41": {
+        "category_combined": {
+            "Misc & Social": [
+                "relationships",
+                "politics"
+            ],
+            "Lifestyle": [
+                "fashion",
+                "beauty",
+                "fitness"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_42": {
+        "category_combined": {
+            "Education & Knowledge": [
+                "space",
+                "finance",
+                "technology"
+            ],
+            "Misc & Social": [
+                "news",
+                "family",
+                "politics"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_43": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "crypto",
+                "startups",
+                "gadgets"
+            ],
+            "Misc & Social": [
+                "relationships",
+                "politics"
+            ],
+            "Art & Creativity": [
+                "crafts"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_44": {
+        "category_combined": {
+            "Lifestyle": [
+                "fashion",
+                "food",
+                "home decor",
+                "photography"
+            ],
+            "Entertainment": [
+                "music",
+                "sports"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_45": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "startups",
+                "AI",
+                "gadgets",
+                "current events"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_46": {
+        "category_combined": {
+            "Education & Knowledge": [
+                "psychology",
+                "finance"
+            ],
+            "Inspiration & Personal Growth": [
+                "motivation",
+                "productivity",
+                "philosophy",
+                "mindfulness"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_47": {
+        "category_combined": {
+            "Art & Creativity": [
+                "theater",
+                "literature"
+            ],
+            "Trends & Modern Culture": [
+                "crypto",
+                "startups",
+                "gadgets"
+            ],
+            "Inspiration & Personal Growth": [
+                "philosophy",
+                "self-care"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_48": {
+        "category_combined": {
+            "Lifestyle": [
+                "fashion"
+            ],
+            "Entertainment": [
+                "music",
+                "anime",
+                "movies",
+                "sports",
+                "gaming"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_49": {
+        "category_combined": {
+            "Lifestyle": [
+                "fashion",
+                "beauty",
+                "photography"
+            ],
+            "Art & Creativity": [
+                "crafts",
+                "painting",
+                "theater",
+                "literature"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_50": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "cars",
+                "AI",
+                "current events"
+            ],
+            "Education & Knowledge": [
+                "coding",
+                "history",
+                "psychology",
+                "science"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_51": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "cars",
+                "crypto",
+                "AI"
+            ],
+            "Misc & Social": [
+                "relationships",
+                "news"
+            ],
+            "Education & Knowledge": [
+                "science",
+                "history",
+                "space"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_52": {
+        "category_combined": {
+            "Art & Creativity": [
+                "literature"
+            ],
+            "Inspiration & Personal Growth": [
+                "philosophy",
+                "mindfulness"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_53": {
+        "category_combined": {
+            "Education & Knowledge": [
+                "history",
+                "psychology",
+                "coding",
+                "technology"
+            ],
+            "Lifestyle": [
+                "fashion",
+                "photography"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_54": {
+        "category_combined": {
+            "Entertainment": [
+                "gaming",
+                "dance"
+            ],
+            "Art & Creativity": [
+                "design"
+            ],
+            "Misc & Social": [
+                "relationships",
+                "family",
+                "politics"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_55": {
+        "category_combined": {
+            "Art & Creativity": [
+                "crafts",
+                "painting",
+                "theater",
+                "literature"
+            ],
+            "Inspiration & Personal Growth": [
+                "productivity",
+                "philosophy",
+                "mindfulness"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_56": {
+        "category_combined": {
+            "Education & Knowledge": [
+                "psychology",
+                "coding",
+                "space"
+            ],
+            "Entertainment": [
+                "movies",
+                "music",
+                "anime"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_57": {
+        "category_combined": {
+            "Inspiration & Personal Growth": [
+                "productivity",
+                "self-care"
+            ],
+            "Art & Creativity": [
+                "theater"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_58": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "cars"
+            ],
+            "Lifestyle": [
+                "travel",
+                "fitness"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_59": {
+        "category_combined": {
+            "Lifestyle": [
+                "fashion",
+                "travel"
+            ],
+            "Trends & Modern Culture": [
+                "cars"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_60": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "AI"
+            ],
+            "Inspiration & Personal Growth": [
+                "motivation",
+                "philosophy",
+                "self-care"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_61": {
+        "category_combined": {
+            "Education & Knowledge": [
+                "science",
+                "finance"
+            ],
+            "Lifestyle": [
+                "photography"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_62": {
+        "category_combined": {
+            "Lifestyle": [
+                "fitness"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_63": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "crypto",
+                "startups",
+                "AI",
+                "cars"
+            ],
+            "Inspiration & Personal Growth": [
+                "self-care"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_64": {
+        "category_combined": {
+            "Art & Creativity": [
+                "crafts",
+                "literature",
+                "writing"
+            ],
+            "Inspiration & Personal Growth": [
+                "mindfulness"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_65": {
+        "category_combined": {
+            "Lifestyle": [
+                "fashion",
+                "beauty",
+                "travel",
+                "photography"
+            ],
+            "Art & Creativity": [
+                "theater"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_66": {
+        "category_combined": {
+            "Education & Knowledge": [
+                "science",
+                "coding"
+            ],
+            "Lifestyle": [
+                "food",
+                "travel"
+            ],
+            "Inspiration & Personal Growth": [
+                "philosophy"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_67": {
+        "category_combined": {
+            "Art & Creativity": [
+                "painting",
+                "writing"
+            ],
+            "Misc & Social": [
+                "news"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_68": {
+        "category_combined": {
+            "Lifestyle": [
+                "fashion",
+                "food",
+                "travel",
+                "home decor"
+            ],
+            "Art & Creativity": [
+                "crafts",
+                "painting",
+                "writing"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_69": {
+        "category_combined": {
+            "Lifestyle": [
+                "food",
+                "photography",
+                "fashion",
+                "home decor",
+                "travel"
+            ],
+            "Misc & Social": [
+                "politics"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_70": {
+        "category_combined": {
+            "Entertainment": [
+                "tv shows",
+                "movies",
+                "memes",
+                "sports"
+            ],
+            "Inspiration & Personal Growth": [
+                "motivation",
+                "philosophy",
+                "self-care"
+            ],
+            "Misc & Social": [
+                "humor"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_71": {
+        "category_combined": {
+            "Art & Creativity": [
+                "crafts",
+                "writing"
+            ],
+            "Misc & Social": [
+                "relationships"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_72": {
+        "category_combined": {
+            "Lifestyle": [
+                "food",
+                "beauty",
+                "fitness"
+            ],
+            "Entertainment": [
+                "music",
+                "memes",
+                "movies",
+                "gaming",
+                "dance"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_73": {
+        "category_combined": {
+            "Inspiration & Personal Growth": [
+                "productivity"
+            ],
+            "Education & Knowledge": [
+                "history",
+                "technology"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_74": {
+        "category_combined": {
+            "Lifestyle": [
+                "home decor"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_75": {
+        "category_combined": {
+            "Inspiration & Personal Growth": [
+                "motivation",
+                "productivity",
+                "philosophy"
+            ],
+            "Education & Knowledge": [
+                "history"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_76": {
+        "category_combined": {
+            "Art & Creativity": [
+                "design",
+                "theater",
+                "writing"
+            ],
+            "Lifestyle": [
+                "fashion",
+                "photography"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_77": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "startups",
+                "AI",
+                "gadgets",
+                "current events"
+            ],
+            "Entertainment": [
+                "movies",
+                "dance",
+                "memes"
+            ],
+            "Misc & Social": [
+                "news",
+                "politics"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_78": {
+        "category_combined": {
+            "Entertainment": [
+                "movies",
+                "tv shows",
+                "anime"
+            ],
+            "Lifestyle": [
+                "fitness",
+                "travel",
+                "home decor"
+            ],
+            "Misc & Social": [
+                "relationships"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_79": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "crypto",
+                "AI"
+            ],
+            "Lifestyle": [
+                "travel"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_80": {
+        "category_combined": {
+            "Lifestyle": [
+                "fashion",
+                "home decor"
+            ],
+            "Misc & Social": [
+                "relationships",
+                "news"
+            ],
+            "Entertainment": [
+                "movies",
+                "dance",
+                "anime"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_81": {
+        "category_combined": {
+            "Misc & Social": [
+                "relationships"
+            ],
+            "Lifestyle": [
+                "fashion",
+                "home decor",
+                "travel",
+                "fitness"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_82": {
+        "category_combined": {
+            "Misc & Social": [
+                "family",
+                "politics"
+            ],
+            "Lifestyle": [
+                "food",
+                "photography",
+                "fashion",
+                "home decor",
+                "fitness"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_83": {
+        "category_combined": {
+            "Inspiration & Personal Growth": [
+                "motivation"
+            ],
+            "Education & Knowledge": [
+                "history",
+                "coding",
+                "finance"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_84": {
+        "category_combined": {
+            "Lifestyle": [
+                "travel"
+            ],
+            "Education & Knowledge": [
+                "history",
+                "psychology",
+                "technology"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_85": {
+        "category_combined": {
+            "Entertainment": [
+                "anime",
+                "sports"
+            ],
+            "Misc & Social": [
+                "news",
+                "politics"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_86": {
+        "category_combined": {
+            "Art & Creativity": [
+                "theater",
+                "literature",
+                "writing"
+            ],
+            "Inspiration & Personal Growth": [
+                "motivation",
+                "philosophy",
+                "self-care"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_87": {
+        "category_combined": {
+            "Lifestyle": [
+                "photography",
+                "fitness"
+            ],
+            "Misc & Social": [
+                "humor"
+            ],
+            "Education & Knowledge": [
+                "science",
+                "history",
+                "technology"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_88": {
+        "category_combined": {
+            "Entertainment": [
+                "tv shows",
+                "music"
+            ],
+            "Lifestyle": [
+                "fashion",
+                "beauty",
+                "home decor"
+            ],
+            "Art & Creativity": [
+                "crafts"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_89": {
+        "category_combined": {
+            "Art & Creativity": [
+                "literature",
+                "crafts"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_90": {
+        "category_combined": {
+            "Education & Knowledge": [
+                "psychology",
+                "coding"
+            ],
+            "Misc & Social": [
+                "news",
+                "family"
+            ],
+            "Entertainment": [
+                "music",
+                "movies",
+                "sports",
+                "tv shows",
+                "dance"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_91": {
+        "category_combined": {
+            "Lifestyle": [
+                "beauty",
+                "home decor",
+                "travel",
+                "photography"
+            ],
+            "Education & Knowledge": [
+                "history"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_92": {
+        "category_combined": {
+            "Inspiration & Personal Growth": [
+                "motivation",
+                "self-care"
+            ],
+            "Education & Knowledge": [
+                "history",
+                "psychology",
+                "technology"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_93": {
+        "category_combined": {
+            "Entertainment": [
+                "gaming",
+                "movies",
+                "music",
+                "memes"
+            ],
+            "Inspiration & Personal Growth": [
+                "self-care"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_94": {
+        "category_combined": {
+            "Inspiration & Personal Growth": [
+                "motivation",
+                "philosophy",
+                "mindfulness"
+            ],
+            "Misc & Social": [
+                "relationships",
+                "humor",
+                "news"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_95": {
+        "category_combined": {
+            "Lifestyle": [
+                "beauty",
+                "travel",
+                "photography"
+            ],
+            "Misc & Social": [
+                "family"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_96": {
+        "category_combined": {
+            "Education & Knowledge": [
+                "psychology",
+                "finance"
+            ],
+            "Misc & Social": [
+                "humor"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_97": {
+        "category_combined": {
+            "Art & Creativity": [
+                "painting",
+                "theater",
+                "literature",
+                "writing"
+            ],
+            "Inspiration & Personal Growth": [
+                "philosophy",
+                "mindfulness"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_98": {
+        "category_combined": {
+            "Misc & Social": [
+                "humor",
+                "news"
+            ],
+            "Education & Knowledge": [
+                "psychology",
+                "coding",
+                "finance",
+                "technology"
+            ],
+            "Entertainment": [
+                "music"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    },
+    "video_99": {
+        "category_combined": {
+            "Trends & Modern Culture": [
+                "current events"
+            ],
+            "Education & Knowledge": [
+                "science",
+                "coding",
+                "finance"
+            ],
+            "Lifestyle": [
+                "food",
+                "fashion",
+                "home decor",
+                "travel",
+                "fitness"
+            ]
+        },
+        "interactions": {
+            "": ""
+        },
+        "score": 0
+    }
+}
