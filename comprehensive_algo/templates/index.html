@@ -179,6 +179,33 @@
             pointer-events: none;
         }
 
+        /* New CSS for visual feedback */
+        .interaction-btn[data-interacted="true"] {
+            background: rgba(255, 255, 255, 1);
+            color: var(--pastel-purple);
+        }
+
+        .interaction-btn[data-interaction-type="like"][data-interacted="true"] {
+            color: var(--pastel-pink);
+            background: white;
+        }
+
+        .interaction-btn[data-interaction-type="save"][data-interacted="true"] {
+            color: var(--pastel-blue);
+            background: white;
+        }
+
+        .interaction-btn[data-interaction-type="comment"][data-interacted="true"] {
+            color: var(--pastel-green);
+            background: white;
+        }
+
+        .interaction-btn[data-interaction-type="share"][data-interacted="true"] {
+            color: var(--pastel-purple);
+            background: white;
+        }
+
+
         .footer {
             border-top: 1px solid #eee;
             border-bottom: none;
@@ -241,43 +268,36 @@
 
                     <aside class="interaction-bar">
                         <form class="interaction-form" action="/interact/{{ video_id }}/like" method="post">
-                            <button class="interaction-btn"><i class="fas fa-heart"></i></button>
+                            <button class="interaction-btn" data-interaction-type="like"
+                                data-interacted="{{ 'like' in history.get(video_id, {}).get('interactions', {}) | string | lower }}">
+                                <i class="fas fa-heart"></i>
+                            </button>
                         </form>
-
-                        <!-- <form class="interaction-form" action="/interact/{{ video_id }}/dislike" method="post">
-                            <button class="interaction-btn"><i class="fas fa-heart-broken"></i></button>
-                        </form> -->
-
                         <form class="interaction-form" action="/interact/{{ video_id }}/comment" method="post">
-                            <button class="interaction-btn"><i class="fas fa-comment"></i></button>
+                            <button class="interaction-btn" data-interaction-type="comment"
+                                data-interacted="{{ 'comment' in history.get(video_id, {}).get('interactions', {}) | string | lower }}">
+                                <i class="fas fa-comment"></i>
+                            </button>
                         </form>
 
-                        <form class="interaction-form" action="/interact/{{ video_id }}/share_public" method="post">
-                            <button class="interaction-btn"><i class="fas fa-share"></i></button>
+                        <form class="interaction-form" action="/interact/{{ video_id }}/share" method="post">
+                            <button class="interaction-btn" data-interaction-type="share"
+                                data-interacted="{{ 'share' in history.get(video_id, {}).get('interactions', {}) | string | lower }}">
+                                <i class="fas fa-share"></i>
+                            </button>
                         </form>
 
                         <form class="interaction-form" action="/interact/{{ video_id }}/save" method="post">
-                            <button class="interaction-btn"><i class="fas fa-bookmark"></i></button>
+                            <button class="interaction-btn" data-interaction-type="save"
+                                data-interacted="{{ 'save' in history.get(video_id, {}).get('interactions', {}) | string | lower }}">
+                                <i class="fas fa-bookmark"></i>
+                            </button>
                         </form>
                     </aside>
                 </div>
             </main>
             {% endfor %}
         </div>
-
-        <!-- <footer class="footer">
-            <form class="interaction-form" action="/interact/{{ videos.keys()|last }}/skip_immediate" method="post">
-                <button class="action-btn btn-skip">
-                    <i class="fas fa-forward"></i> Skip
-                </button>
-            </form>
-            
-            <form class="interaction-form" action="/interact/{{ videos.keys()|last }}/view_long" method="post">
-                <button class="action-btn btn-watch">
-                    <i class="fas fa-eye"></i> Watch
-                </button>
-            </form>
-        </footer> -->
     </div>
 
     <script>
@@ -292,20 +312,20 @@
             6: '#F0E68C', // pastel yellow
             7: '#FFA07A', // pastel orange
             8: '#DDA0DD', // pastel plum
-            9: '#98FB98'  // pastel mint
+            9: '#98FB98' // pastel mint
         };
 
         function getGradientFromVideoId(videoId) {
             // Extract digits from video ID
             const digits = videoId.replace(/\D/g, ''); // Remove non-digit characters
-            
+
             if (digits.length === 0) {
                 // Fallback if no digits found
                 return 'linear-gradient(45deg, #AEC6CF, #A7D9D3)';
             }
-            
+
             let startColor, endColor;
-            
+
             if (digits.length === 1) {
                 // If only one digit, use same color for both
                 startColor = endColor = digitColors[parseInt(digits[0])];
@@ -314,12 +334,12 @@
                 startColor = digitColors[parseInt(digits[0])];
                 endColor = digitColors[parseInt(digits[digits.length - 1])];
             }
-            
+
             return `linear-gradient(45deg, ${startColor}, ${endColor})`;
         }
 
         // Apply gradients to all video containers
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', function () {
             document.querySelectorAll('.video-container').forEach(container => {
                 const videoId = container.getAttribute('data-video-id');
                 const gradient = getGradientFromVideoId(videoId);
@@ -327,24 +347,31 @@
             });
         });
 
+
         document.querySelectorAll('.interaction-form').forEach(form => {
             form.addEventListener('submit', function (event) {
-                // Prevent the default form submission (page reload)
                 event.preventDefault();
 
-                // Get the action URL from the form
-                const url = this.action;
+                const button = this.querySelector('.interaction-btn');
+                const interactionType = button.getAttribute('data-interaction-type');
+                const isInteracted = button.getAttribute('data-interacted') === 'true';
 
-                // Use fetch to send the POST request
+                // Determine the new state based on the current state
+                const newState = isInteracted ? 'false' : 'true';
+
+                // Get the action URL from the form
+                // We will modify the URL to include the new state
+                const url = `/interact/${button.closest('.video-container').getAttribute('data-video-id')}/${interactionType}/${newState}`;
+
                 fetch(url, {
                     method: 'POST',
-                    body: new FormData(this) // Sends the form data
+                    // No need for a body since we're sending the state in the URL
                 })
                     .then(response => response.json())
                     .then(data => {
                         console.log('Interaction successful:', data);
-                        // You can add logic here to give the user feedback
-                        // For example: a temporary toast message or a change in button color
+                        // Update the data-interacted attribute based on the response
+                        button.setAttribute('data-interacted', newState);
                     })
                     .catch(error => {
                         console.error('Error:', error);
