@@ -75,7 +75,7 @@ def initialize():
 
 def get_faiss_index_v2():
     global faiss_index
-    faiss_index = faiss.read_index("ml_algo/index_v2.faiss")
+    faiss_index = faiss.read_index("index_v2.faiss")
 
 
 def initialize_v2():
