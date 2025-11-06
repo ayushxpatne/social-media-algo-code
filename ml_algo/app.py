@@ -73,6 +73,11 @@ def initialize():
     get_all_videos()
 
 
+def get_faiss_index_v2():
+    global faiss_index
+    faiss_index = faiss.read_index("ml_algo/index_v2.faiss")
+
+
 def initialize_v2():
     get_faiss_index_v2()
     get_all_videos()
