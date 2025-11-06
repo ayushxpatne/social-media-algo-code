@@ -43,7 +43,7 @@ def get_all_videos():
     global all_videos, feed
     # Load the JSON data
     try:
-        with open("ml_algo/data2.json", "r") as f:
+        with open("data2.json", "r") as f:
             all_videos = json.load(f)
     except FileNotFoundError:
         # all_videos dummy data if file is not found
@@ -65,7 +65,7 @@ def get_all_videos():
 
 def get_faiss_index():
     global faiss_index
-    faiss_index = faiss.read_index("ml_algo/index.faiss")
+    faiss_index = faiss.read_index("index.faiss")
 
 
 def initialize():
@@ -94,11 +94,13 @@ def init_feed():
             feed.append(feed_data)
 
 
+# Initialize resources once when the application starts
+initialize_v2()
+init_feed()
+
+
 @app.route("/")
 def index():
-    # initialize()
-    initialize_v2()
-    init_feed()
     # Pass the entire videos dictionary and the user's history to the template
     return render_template(
         "index.html", videos=feed, total_videos=len(feed), history=history
