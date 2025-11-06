@@ -59,6 +59,7 @@ This project answers the fundamental question: **"How do social media algorithms
 - **FAISS Index**: Pre-computed content embeddings for fast similarity search
 
 ## 📁 Project Structure
+```
 social-media-algo-code/
 ├── basic_algorithm.ipynb          # Simple rule-based algorithm
 ├── comprehensive_algo/            # Advanced rule-based system
@@ -80,3 +81,4 @@ social-media-algo-code/
 │   └── templates/
 │       └── index.html            # Interactive web interface
 ├── history.json                  #interaction history for basic algo 
+```
