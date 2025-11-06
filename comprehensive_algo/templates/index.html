@@ -247,7 +247,7 @@
 <body>
     <div class="feed-container">
         <header class="header">
-            <div class="logo">makes sense?</div>
+            <div class="logo">algo</div>
         </header>
 
         <div class="videos-wrapper">
@@ -258,7 +258,7 @@
                         <div class="video-info">
                             <div class="video-counter">{{ loop.index }} / {{ total_videos }}</div>
                             <div class="video-id">{{ video_id }}</div>
-                            <div class="info-label">Category</div>
+                            <div class="info-label">Description</div>
                             {% for cat, subcats in video_data.category_combined.items() %}
 
                             <div class="info-value">{{ cat }} ({{ subcats | join(', ') }})</div>

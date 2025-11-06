@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Load the JSON data
 try:
-    with open("data.json", "r") as f:
+    with open("comprehensive_algo/data.json", "r") as f:
         videos = json.load(f)
 except FileNotFoundError:
     # Fallback dummy data if file is not found
