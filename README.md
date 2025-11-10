@@ -2,13 +2,13 @@
 
 A comprehensive project that demystifies how social media algorithms work by building them from scratch. Starting from a simple rule-based system and evolving to a sophisticated machine learning-powered recommendation engine using embeddings and vector similarity search.
 
-## 🎯 Project Overview
+## Project Overview
 
 This project answers the fundamental question: **"How do social media algorithms know what content to show you?"** Through hands-on implementation, we explore the evolution from basic scoring systems to advanced ML-powered recommendation engines that power platforms like TikTok, Instagram, and YouTube.
 
-## 🚀 Key Features
+## Key Features
 
-### 📊 Three Progressive Implementations
+### Three Progressive Implementations
 
 1. **Basic Algorithm** (`basic_algorithm.ipynb`)
    - Simple like/dislike scoring system
@@ -29,7 +29,7 @@ This project answers the fundamental question: **"How do social media algorithms
    - Intelligent content recommendation with exploration/exploitation balance
    - Real-time learning from user interactions
 
-### 🧠 Core Concepts Demonstrated
+### Core Concepts Demonstrated
 
 - **Cold Start Problem**: How algorithms handle new users
 - **Exploration vs Exploitation**: Balancing known preferences vs discovering new content
@@ -38,7 +38,7 @@ This project answers the fundamental question: **"How do social media algorithms
 - **User Profiling**: Building comprehensive user preference models
 - **Real-time Learning**: Continuously updating recommendations based on interactions
 
-## 🏗️ Architecture & Technology Stack
+## Architecture & Technology Stack
 
 ### Backend Technologies
 - **Python 3.10+**: Core implementation language
@@ -58,7 +58,7 @@ This project answers the fundamental question: **"How do social media algorithms
 - **CSV**: Content metadata and embeddings
 - **FAISS Index**: Pre-computed content embeddings for fast similarity search
 
-## 📁 Project Structure
+## Project Structure
 ```
 social-media-algo-code/
 ├── basic_algorithm.ipynb          # Simple rule-based algorithm
